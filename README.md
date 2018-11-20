@@ -4,7 +4,7 @@ Un site web (très) userfriendly pour un pâtissier/traiteur événementiel(Bapt
 
 # Avant-propos
 
-Avant tout, sache que ce site web est pour mon frère certes, et que c'est l'une des raisons qui m'a amené à faire THP. 
+Avant tout, sache que ce site web est pour mon frère, et que c'est l'une des raisons qui m'a amené à faire THP. 
 Il est pâtissier / traiteur / charcutier dans l'événementiel et ce site web sera son principal contact avec sa clientèle (pas de point de vente en dur). Pour le moment, il utilise une simple page facebook. Ca lui permet à peine de faire sa com, il gère les commandes au téléphone, bref c'est un joyeux bordel et Winter is coming... 
 Bref, tu l'auras compris, dans l'idéal, il aurait besoin de ce site pour gérer Noël ! Et ça tombe (presque) bien avec les dates du projet final (si toi aussi tu kiffes les deadlines bien short 🙃)
 
