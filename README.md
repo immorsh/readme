@@ -42,7 +42,7 @@ Il doit donc être capable d'ajouter/éditer/supprimer tout ca (Ca fait quand m�
 Avoir la liste des commandes (Encore un CRU(D) ! (ou presque, je sais pas s'il faut supprimer ou archiver la commande une fois livrée)).
 Pour chaque commande, être capable de voir le nom du client, l'adresse, la date de livraison souhaitée, et la liste des produits avec leurs options (puisque c'est le thème du jour, un petit modal ici ne serait-il pas parfait ? ❤️)
 
-Avoir un panel qui liste la liste de tous les produits à faire, indépendamment de la commande. ~~(Et soyons fous, un petit algo qui détermine quoi faire et dans quel ordre et qui liste les ingrédients en fonction des recettes (CRUUUUD) ) ~~
+Avoir un panel qui liste la liste de tous les produits à faire, indépendamment de la commande. ~~(Et soyons fous, un petit algo qui détermine quoi faire et dans quel ordre et qui liste les ingrédients en fonction des recettes (CRUUUUD) )~~
 
 ### Gestion des pages facebook et instagram depuis le site
 
