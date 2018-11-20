@@ -4,7 +4,7 @@ Un site web (très) userfriendly pour un pâtissier/traiteur événementiel(Bapt
 
 # Avant-propos
 
-Avant tout, sache que ce site web est pour un **vrai client** (mon frère certes, mais quand même), et que c'est l'une des raisons qui m'a amené à faire THP. 
+Avant tout, sache que ce site web est pour mon frère certes, et que c'est l'une des raisons qui m'a amené à faire THP. 
 Il est pâtissier / traiteur / charcutier dans l'événementiel et ce site web sera son principal contact avec sa clientèle (pas de point de vente en dur). Pour le moment, il utilise une simple page facebook. Ca lui permet à peine de faire sa com, il gère les commandes au téléphone, bref c'est un joyeux bordel et Winter is coming... 
 Bref, tu l'auras compris, dans l'idéal, il aurait besoin de ce site pour gérer Noël ! Et ça tombe (presque) bien avec les dates du projet final (si toi aussi tu kiffes les deadlines bien short 🙃)
 
@@ -54,7 +54,7 @@ Possibilité de modifier un produit en quelques clics pour qu'il soit affichée 
 
 ## Des tests en béton armé
 
-Le client est pâtissier, et il aura beaucoup de CRUD entre les mains. S'il y a la moindre faille, tu peux être sur qu'il s'engouffrera dedans et fera voler ta chère DB -ainsi que le reste du site- vers d'autres cieux.
+Mon frère est pâtissier, et il aura beaucoup de CRUD entre les mains. S'il y a la moindre faille, tu peux être sur qu'il s'engouffrera dedans et fera voler ta chère DB -ainsi que le reste du site- vers d'autres cieux.
 **Minitests**, **RSpec**, **Capybara**, who knows ? Mais ils seront la, et ils seront costauds.
  
 # MVP
@@ -72,12 +72,12 @@ L'implémentation de facebook, instagram et des opés spés sont secondaires.
 # Pourquoi rejoindre ce projet ?
 
 Parce qu'il est ambitieux et qu'il y a du taf dans tous les domaines : de l'UX design à la database en passant par les services, il couvre tout ce que tu as pu voir pendant THP et plus encore.
-Parce que tu travailleras pour un client réel, avec ses exigences à la con et ses demandes à la dernière minute. Une bonne entrée dans le monde réelle ...
+Parce que, comme ça t'arrivera souvent dans le monde réel si tu continues, tu travailleras sur le projet de quelqu'un qui n'y connait rien en web, avec ses exigences à la con et ses demandes de dernière minute...
 Parce qu'il a pour vocation d'être la première ligne de nos portfolios, il sera rigoureux et prouvera ton savoir faire à tes futurs clients.
 Parce qu'on va surement travailler en remote (#TeamCampagnesDuNord).
 Parce qu'on a des cookies (mais faudra venir les chercher !)
 
 ### L'équipe déjà en place
-- Tony : Touche à tout, avec une préférence pour la back-end. Javascript ne me fait pas peur !
-- Félix : J'aime pas le sport
+- Tony : Touche à tout, avec une préférence pour le back-end. Javascript ne me fait pas peur !
+- Félix : Un peu plus d'affinités pour le front, même si j'aimerais faire un peu de tout :)
 - Josh : Maître photographe, mon rôle sera de faire un design qui déchire !
