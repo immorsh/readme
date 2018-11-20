@@ -13,8 +13,8 @@ Bref, tu l'auras compris, dans l'idéal, il aurait besoin de ce site pour gérer
 ## Coté clientèle
 
 Une boutique dynamique et bien pensée (probablement 3 : Pâtisserie, Traiteur, et Charcuterie).<br />
-Un CRUD user complet, avec l'utilisation de **devise**<br />
-Une authentification via facebook avec **omniauth**<br />
+Un CRUD user complet, avec l'utilisation de **devise**.<br />
+Une authentification via facebook avec **omniauth**.<br />
 La possibilité de passer des commandes, les éditer et les annuler. Mise en place du paiement en ligne. Bref, une boutique somme toute assez classique.<br />
 Demande de devis.<br />
 
@@ -34,13 +34,13 @@ Pour chaque produit, il peut y avoir des options. Par exemple pour un entremet :
 - le nombre de part, au choix dans une liste déterminée (6, 8, 10, 12 ...)
 - le thème / décoration (Disney, sport, voiture ...)
 
-Les thèmes pourront être classés par catégorie (eg cars ou la reine des neiges dans la catégorie Disney)<br />
-Il doit donc être capable d'ajouter/éditer/supprimer tout ca (Ca fait quand même quelques CRUDs... ) 
+Les thèmes pourront être classés par catégorie (eg cars ou la reine des neiges dans la catégorie Disney).<br />
+Il doit donc être capable d'ajouter/éditer/supprimer tout ca (Ca fait quand même quelques CRUDs... ).
 
 ### Une gestion des commandes avec un panel récapitulatif
 
 Avoir la liste des commandes (Encore un CRU(D) ! (ou presque, je sais pas s'il faut supprimer ou archiver la commande une fois livrée)).
-Pour chaque commande, être capable de voir le nom du client, l'adresse, la date de livraison souhaitée, et la liste des produits avec leurs options (puisque c'est le thème du jour, un petit modal ici ne serait-il pas parfait ? ❤️)<br />
+Pour chaque commande, être capable de voir le nom du client, l'adresse, la date de livraison souhaitée, et la liste des produits avec leurs options (puisque c'est le thème du jour, un petit modal ici ne serait-il pas parfait ? ❤️).<br />
 
 Avoir un panel qui liste la liste de tous les produits à faire, indépendamment de la commande. ~~(Et soyons fous, un petit algo qui détermine quoi faire et dans quel ordre et qui liste les ingrédients en fonction des recettes (CRUUUUD) )~~
 
