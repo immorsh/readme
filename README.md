@@ -1,6 +1,6 @@
 # Pâtisserie Traiteur Événementielle KN
 
-Un site web (très) userfriendly pour un pâtissier/traiteur événementiel(Baptême, mariage, toussa quoi)
+Un site web (très) userfriendly pour un pâtissier/traiteur événementiel (Baptême, mariage, toussa quoi)
 
 # Avant-propos
 
