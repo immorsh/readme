@@ -80,4 +80,4 @@ Parce qu'on a des cookies (mais faudra venir les chercher !)
 ### L'équipe déjà en place
 - Tony : Touche à tout, avec une préférence pour le back-end. Javascript ne me fait pas peur !<br />
 - Félix : Un peu plus d'affinités pour le front, même si j'aimerais faire un peu de tout également :)<br />
-- Josh : Maître photographe, mon rôle sera de faire un design qui déchire !<br />
+- Josh : Maître photographe, mon rôle sera de faire un design qui déchire et toucher au back-end !<br />
